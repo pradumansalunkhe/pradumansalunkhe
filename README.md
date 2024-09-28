@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/praduman2528" target="blank"><img src="https://img.shields.io/twitter/follow/praduman2528?logo=twitter&style=for-the-badge" alt="praduman2528" /></a> </p>
 
-- 🔭 I’m currently working on **Zomato sales**
+- 🔭 I’m currently working on **Pradhuman Planet Project**
 
 - 🌱 I’m currently learning **Python,Power BI,Numpy,Pandas,Matplotlib,Data Science**
 
